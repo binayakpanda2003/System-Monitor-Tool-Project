@@ -86,7 +86,7 @@ git commit -m "Day 5: Real-time ncurses-based system monitor"
 ### 🧭 Day 1 – Basic System Info
 Displays basic system information such as uptime, load average, and memory usage.
 
-![Day 1 Output](C:\Users\mebin\OneDrive\Desktop\CapStone Project\Screenshots\Day_01\Code_with_Output.png)
+![Day 1 Output](Code_with_Output.png)
 
 ---
 
