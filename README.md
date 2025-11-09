@@ -86,41 +86,41 @@ git commit -m "Day 5: Real-time ncurses-based system monitor"
 ### 🧭 Day 1 – Basic System Info
 Displays basic system information such as uptime, load average, and memory usage.
 
-![Day 1 Output]("C:\Users\mebin\OneDrive\Desktop\CapStone Project\Screenshots\Day_01\Code_with_Output.png")
+![Day 1 Output](C:\Users\mebin\OneDrive\Desktop\CapStone Project\Screenshots\Day_01\Code_with_Output.png)
 
 ---
 
 ### ⚙️ Day 2 – Process Listing
 Lists running processes along with PID, CPU jiffies, and memory (RSS).
 
-![Day 2 Output]("C:\Users\mebin\OneDrive\Desktop\CapStone Project\Screenshots\Day_02\D2-Code_W_Output.png")
+![Day 2 Output](C:\Users\mebin\OneDrive\Desktop\CapStone Project\Screenshots\Day_02\D2-Code_W_Output.png)
 
 ---
 
 ### 🧩 Day 3 – Sorted Process List
 Shows process sorting by CPU and memory usage using `--sort=cpu` or `--sort=mem`.
 
-![Day 3 Output 1]("C:\Users\mebin\OneDrive\Desktop\CapStone Project\Screenshots\Day_03\D3_Code_w_OP_1.png")  
-![Day 3 Output 2]("C:\Users\mebin\OneDrive\Desktop\CapStone Project\Screenshots\Day_03\D3_Code_W_OP_2.png")
+![Day 3 Output 1](C:\Users\mebin\OneDrive\Desktop\CapStone Project\Screenshots\Day_03\D3_Code_w_OP_1.png)  
+![Day 3 Output 2](C:\Users\mebin\OneDrive\Desktop\CapStone Project\Screenshots\Day_03\D3_Code_W_OP_2.png)
 
 ---
 
 ### 🧨 Day 4 – Kill Process Feature
 Interactive commands (`k PID`, `K PID`) to terminate or force-kill a process.
 
-![Day 4 Output 1]("C:\Users\mebin\OneDrive\Desktop\CapStone Project\Screenshots\Day_04\D4_Code_w_OP_1.png")  
-![Day 4 Output 2]("C:\Users\mebin\OneDrive\Desktop\CapStone Project\Screenshots\Day_04\D4_Code_w_OP_2.png")  
-![Day 4 Output 3]("C:\Users\mebin\OneDrive\Desktop\CapStone Project\Screenshots\Day_04\D4_Code_w_OP_3.png")
+![Day 4 Output 1](C:\Users\mebin\OneDrive\Desktop\CapStone Project\Screenshots\Day_04\D4_Code_w_OP_1.png)  
+![Day 4 Output 2](C:\Users\mebin\OneDrive\Desktop\CapStone Project\Screenshots\Day_04\D4_Code_w_OP_2.png)  
+![Day 4 Output 3](C:\Users\mebin\OneDrive\Desktop\CapStone Project\Screenshots\Day_04\D4_Code_w_OP_3.png)
 
 ---
 
 ### 📊 Day 5 – Real-Time Monitor UI
 A fully interactive ncurses-based interface with live CPU % and memory updates.
 
-![Day 5 Output 1]("C:\Users\mebin\OneDrive\Desktop\CapStone Project\Screenshots\Day_05\D5_Code_W_OP1.png")  
-![Day 5 Output 2]("C:\Users\mebin\OneDrive\Desktop\CapStone Project\Screenshots\Day_05\D5_Code_W_OP2.png")  
-![Day 5 Output 3]("C:\Users\mebin\OneDrive\Desktop\CapStone Project\Screenshots\Day_05\D5_Code_W_OP3.png")  
-![Day 5 Output 4]("C:\Users\mebin\OneDrive\Desktop\CapStone Project\Screenshots\Day_05\D5_Code_W_OP4.png")
+![Day 5 Output 1](C:\Users\mebin\OneDrive\Desktop\CapStone Project\Screenshots\Day_05\D5_Code_W_OP1.png)  
+![Day 5 Output 2](C:\Users\mebin\OneDrive\Desktop\CapStone Project\Screenshots\Day_05\D5_Code_W_OP2.png)  
+![Day 5 Output 3](C:\Users\mebin\OneDrive\Desktop\CapStone Project\Screenshots\Day_05\D5_Code_W_OP3.png)  
+![Day 5 Output 4](C:\Users\mebin\OneDrive\Desktop\CapStone Project\Screenshots\Day_05\D5_Code_W_OP4.png)
 
 
 ------------------------------------------------------------
